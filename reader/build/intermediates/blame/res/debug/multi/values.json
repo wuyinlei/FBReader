@@ -1,0 +1,595 @@
+[
+    {
+        "outputFile": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 345,
+                        "endColumn": 39,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 47,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 47,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 41,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 41,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 41,
+                    "endOffset": 222
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 207,
+                        "endColumn": 41,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 227,
+                    "endColumn": 44,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 385,
+                        "endColumn": 44,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 43,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 43,
+                        "endOffset": 330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 45,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 5,
+                        "startOffset": 66,
+                        "endColumn": 46,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 45,
+                    "endOffset": 403
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 430,
+                        "endColumn": 45,
+                        "endOffset": 471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 408,
+                    "endColumn": 41,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 41,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1533,
+                    "endColumn": 43,
+                    "endOffset": 1572
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1577,
+                    "endColumn": 37,
+                    "endOffset": 1610
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 134,
+                        "endColumn": 34,
+                        "endOffset": 167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1615,
+                    "endColumn": 37,
+                    "endOffset": 1648
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 169,
+                        "endColumn": 34,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1653,
+                    "endColumn": 49,
+                    "endOffset": 1698
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 554,
+                        "endColumn": 46,
+                        "endOffset": 599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1703,
+                    "endColumn": 56,
+                    "endOffset": 1755
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 500,
+                        "endColumn": 53,
+                        "endOffset": 552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1760,
+                    "endColumn": 46,
+                    "endOffset": 1802
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 601,
+                        "endColumn": 43,
+                        "endOffset": 643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1807,
+                    "endColumn": 50,
+                    "endOffset": 1853
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 317,
+                        "endColumn": 47,
+                        "endOffset": 363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1858,
+                    "endColumn": 53,
+                    "endOffset": 1907
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 365,
+                        "endColumn": 50,
+                        "endOffset": 414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1912,
+                    "endColumn": 47,
+                    "endOffset": 1955
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 227,
+                        "endColumn": 44,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1960,
+                    "endColumn": 43,
+                    "endOffset": 1999
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 434,
+                        "endColumn": 40,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2004,
+                    "endColumn": 47,
+                    "endOffset": 2047
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 272,
+                        "endColumn": 44,
+                        "endOffset": 315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2052,
+                    "endColumn": 33,
+                    "endOffset": 2081
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 103,
+                        "endColumn": 30,
+                        "endOffset": 132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2086,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 2318
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 120,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2323,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 2982
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 363,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 1036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2987,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 3275
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2037,
+                        "endLine": 60,
+                        "endColumn": 12,
+                        "endOffset": 2330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3280,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 3494
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1044,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3499,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 3713
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1270,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3718,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 3877
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2338,
+                        "endLine": 65,
+                        "endColumn": 12,
+                        "endOffset": 2500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3882,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 4036
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 2508,
+                        "endLine": 70,
+                        "endColumn": 12,
+                        "endOffset": 2665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4041,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 4266
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1774,
+                        "endLine": 50,
+                        "endColumn": 12,
+                        "endOffset": 2002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4271,
+                    "endLine": 75,
+                    "endColumn": 12,
+                    "endOffset": 4485
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\reader\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1523,
+                        "endLine": 44,
+                        "endColumn": 12,
+                        "endOffset": 1741
+                    }
+                }
+            }
+        ]
+    }
+]

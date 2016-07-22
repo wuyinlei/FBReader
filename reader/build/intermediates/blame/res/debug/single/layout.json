@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\opendictionary_flyout.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\opendictionary_flyout.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\lv_file.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\lv_file.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_inc.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\notification_inc.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\lv_toc.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\lv_toc.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fb.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\activity_fb.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\head.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\head.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\catalog_manager_view.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\catalog_manager_view.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_dialog.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\plugin_dialog.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\pop_menu.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\pop_menu.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\gv_item.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\gv_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\color_dialog.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\color_dialog.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\notification.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\ambilwarna_pref_widget.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\ambilwarna_pref_widget.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\style_item.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\style_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\catalog_manager_section_head.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\catalog_manager_section_head.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\catalog_manager_item.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\catalog_manager_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\cancel_item.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\cancel_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_item.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\plugin_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\ambilwarna_dialog.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\ambilwarna_dialog.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\activity_file.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\activity_file.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\error_book_reading.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\error_book_reading.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\control_panel_floating.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\control_panel_floating.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\elv_file.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\elv_file.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\ok_cancel_buttons.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\ok_cancel_buttons.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\gv_item_menu.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\gv_item_menu.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\pop_progress.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\pop_progress.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\animation_speed_dialog.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\animation_speed_dialog.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\activity_toc.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\activity_toc.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\color_preference.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\color_preference.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\app_download_notification.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\app_download_notification.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\increment_popup_dialog.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\increment_popup_dialog.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\control_panel_bottom_flat.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\control_panel_bottom_flat.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\control_panel_bottom.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\control_panel_bottom.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dialog_delete_book.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\layout\\activity_dialog_delete_book.xml"
+    }
+]

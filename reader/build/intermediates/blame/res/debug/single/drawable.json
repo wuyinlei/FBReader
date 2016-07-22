@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\selection_translate_active.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\selection_translate_active.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_previous_active.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\text_search_previous_active.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\cover_txt.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\cover_txt.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\selection_copy_default.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\selection_copy_default.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_next_disabled.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\text_search_next_disabled.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\selection_close.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\selection_close.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\shelf_panel.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\shelf_panel.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_next_default.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\text_search_next_default.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_close.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\text_search_close.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\selection_copy_active.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\selection_copy_active.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bg.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\menu_bg.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\ambilwarna_cursor.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\ambilwarna_cursor.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_previous_default.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\text_search_previous_default.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_03.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\loading_03.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\ambilwarna_target.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\ambilwarna_target.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\ambilwarna_hue.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\ambilwarna_hue.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\dropdown.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\dropdown.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\selection_translate_default.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\selection_translate_default.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\link.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\link.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\ambilwarna_arrow_right.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\ambilwarna_arrow_right.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\ambilwarna_arrow_down.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\ambilwarna_arrow_down.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\selection_bookmark_default.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\selection_bookmark_default.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\lv_bg.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\lv_bg.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_previous_disabled.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\text_search_previous_disabled.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\dropdown_selected.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\dropdown_selected.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_07.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\loading_07.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\selection_share.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\selection_share.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_01.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\loading_01.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_04.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\loading_04.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_selector.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\checkbox_selector.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\link_default.9.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\link_default.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\push.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\push.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\dropdown_normal.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\dropdown_normal.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_bar.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\seek_bar.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\selection_share_default.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\selection_share_default.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\dropdown_pressed.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\dropdown_pressed.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\link_pressed.9.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\link_pressed.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\link_selected.9.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\link_selected.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_06.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\loading_06.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_close_default.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\text_search_close_default.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\drag_icon.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\drag_icon.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\selection_share_active.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\selection_share_active.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_previous.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\text_search_previous.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\selection_copy.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\selection_copy.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_05.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\loading_05.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\file_list_bg.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\file_list_bg.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_next_active.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\text_search_next_active.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_02.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\loading_02.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_next.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\text_search_next.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\selection_close_active.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\selection_close_active.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\selection_bookmark_active.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\selection_bookmark_active.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_close_active.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\text_search_close_active.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_buttom_bg.9.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\pop_buttom_bg.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dialog.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\btn_dialog.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\selection_bookmark.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\selection_bookmark.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\selection_close_default.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\selection_close_default.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable\\selection_translate.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable\\selection_translate.xml"
+    }
+]

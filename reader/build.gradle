@@ -1,0 +1,49 @@
+apply plugin: 'com.android.application'
+apply plugin:'android-apt'
+def AAVersion='4.0.0'
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.0"
+    defaultConfig {
+        applicationId "com.jayqqaa12.reader"
+        minSdkVersion 14
+        targetSdkVersion 24
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+apt {
+    arguments {
+        androidManifestFile variant.outputs[0]?.processResources?.manifestFile
+        resourcePackageName "com.jayqqaa12.reader"
+    }
+}
+
+/*apt {
+    arguments {
+        androidManifestFile variant.outputs[0].processResources.manifestFile
+        resourcePackageName android.defaultConfig.applicationId
+    }
+}*/
+/*apt{
+    arguments{
+        androidManifestFile variant.outputs[0].processResources.manifestFile
+        resourcePackageName "org.merlin.android_app2"
+    }
+}*/
+dependencies {
+    compile files('libs/GetuiExt-1.2.2.jar')
+    compile files('libs/GetuiSdk-2.1.0.1.jar')
+    compile files('libs/LingvoIntegration_2.5.2.12.jar')
+    compile files('libs/open-dictionary-api-1.2.1.jar')
+    compile project(':abase')
+    compile 'com.jiechic.library:xUtils:2.6.14'
+
+    apt "org.androidannotations:androidannotations:$AAVersion"
+    compile "org.androidannotations:androidannotations-api:$AAVersion"
+}

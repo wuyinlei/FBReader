@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\anim\\activity_bottom_out.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\anim\\activity_bottom_out.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\anim\\activity_right_out.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\anim\\activity_right_out.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_bottom_out.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\anim\\dialog_bottom_out.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\anim\\keep_y.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\anim\\keep_y.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\anim\\activity_right_in.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\anim\\activity_right_in.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_bottom_in.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\anim\\dialog_bottom_in.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\anim\\loading.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\anim\\loading.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\anim\\keep_x.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\anim\\keep_x.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\anim\\activity_bottom_in.xml",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\anim\\activity_bottom_in.xml"
+    }
+]

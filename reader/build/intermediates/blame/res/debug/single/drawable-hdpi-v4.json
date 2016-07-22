@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_item_more.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_item_more.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share_pic_line.9.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\share_pic_line.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_item_vertical_screen.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_item_vertical_screen.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download_empty.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\download_empty.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_btn_font_small.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_btn_font_small.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_item_search.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_item_search.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cover_net.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\cover_net.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_type_txt.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\file_type_txt.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\listbackground_normal_plus.9.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\listbackground_normal_plus.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_item_bright.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_item_bright.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_item_mode.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_item_mode.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_btn_font_big.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_btn_font_big.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cover_default_new.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\cover_default_new.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recommend_line.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\recommend_line.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bookshelf_icon.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\bookshelf_icon.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_right.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_right.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_empty.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\file_empty.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\others.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\others.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\return_button.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\return_button.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\line_v.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\line_v.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_item_stopscroll.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_item_stopscroll.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cover_epub.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\cover_epub.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_item_horizontal_screen.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_item_horizontal_screen.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_online_quit_image.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_online_quit_image.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bookstore_icon.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\bookstore_icon.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cover_umd.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\cover_umd.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_html_home.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_html_home.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\push.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\push.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_type_chm.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\file_type_chm.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_on.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\switch_on.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bookshelf_sidebar_icon.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\bookshelf_sidebar_icon.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_online_refresh.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_online_refresh.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bookshelf_header_logo.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\bookshelf_header_logo.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seek_bar_thumb.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\seek_bar_thumb.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_default_white.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\bg_default_white.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_off.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\switch_off.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pop_buttom_bg.9.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\pop_buttom_bg.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_type_folder.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\file_type_folder.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_item_bookmark.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_item_bookmark.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\local_up.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\local_up.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seek_bar_progress_src.9.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\seek_bar_progress_src.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cover_ebk.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\cover_ebk.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pop_pressed.9.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\pop_pressed.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_bookshelf_arrangement.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_bookshelf_arrangement.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cover_chm.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\cover_chm.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_item_scroll.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_item_scroll.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\line_h.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\line_h.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_item_progress.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_item_progress.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_item_directory.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_item_directory.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bookshelf_layer_center.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\bookshelf_layer_center.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_left.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_left.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cover_txt.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\cover_txt.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cover_pdf.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\cover_pdf.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_item_startscroll.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_item_startscroll.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\listbackground_press_plus.9.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\listbackground_press_plus.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\listbackground_normal.9.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\listbackground_normal.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_select.9.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\list_select.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_back.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\btn_back.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bookshelf_header_bg.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\bookshelf_header_bg.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_line.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\common_line.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_type_ebk.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\file_type_ebk.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_arrangement_a.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_arrangement_a.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seek_bar_background.9.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\seek_bar_background.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download_cache.9.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\download_cache.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_item_font.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_item_font.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\listbackground_press.9.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\listbackground_press.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_online_show_image.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_online_show_image.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_bookshelf_set_up.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_bookshelf_set_up.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_bookshelf_books_management.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_bookshelf_books_management.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_online_history.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_online_history.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_type_pdf.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\file_type_pdf.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_online_ask_for_book.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\icon_online_ask_for_book.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_type_epub.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\file_type_epub.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\reader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_type_umd.png",
+        "source": "E:\\MyApplication\\reader\\src\\main\\res\\drawable-hdpi\\file_type_umd.png"
+    }
+]
